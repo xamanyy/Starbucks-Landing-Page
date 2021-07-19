@@ -1,0 +1,238 @@
+.other {
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+
+}
+
+.oth{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.oth:hover{
+  text-decoration: none;
+}
+.other-p{
+  letter-spacing: 1px;
+  font-size: 14px;
+  font-size: 14px;
+}
+.oth-cta{
+  text-align: center;
+  font-size: 14px;
+  margin-top:100px;
+  line-height:1.6;
+  width:48vw;
+  letter-spacing:1.3px;
+  margin-bottom: 40px;
+    
+} 
+
+
+.dot{
+  height: 60vh;
+  width: 96%;
+  display: flex;
+  margin: 40px auto;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: left;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 10%),
+  0 2px 2px rgb(0 0 0 / 6%),
+    0 0 2px rgb(0 0 0 / 7%);
+}
+
+.table{
+  
+   display: flex;
+   flex-direction: column;
+   height: 56vh;
+   
+  
+}
+table{
+  padding-top: 40px;
+  margin-bottom: 40px;
+  width:1100px;
+  margin-left: 30px;
+  height: 56vh;
+}
+
+th{
+  text-align: left;
+  font-size: 20px;
+  font-weight: lighter;
+  text-transform: inherit;
+  padding-bottom: 32px;
+  color: rgba(0, 0, 0, .85);
+}
+
+.hon{
+  text-decoration: none;
+  font-size:16px;
+  text-transform: inherit;
+  font-weight: 200;
+  color: rgba(0, 0, 0, .56);
+
+}
+.hon:hover{
+  color: black;
+}
+
+
+.b {
+  padding-bottom: 12px;
+}
+td{
+  width: 90px;
+  padding-bottom:28px;
+}
+
+
+footer {
+  margin-top: 20px;
+  height: 30vh;
+  width: 100%;
+}
+
+.wrap{
+    margin-top:  70px;
+    width: 1460px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.icons{
+  display: flex;
+  height:5vh;
+  margin-left: 30px;
+}
+.spotify{
+  height:42px;
+  width: 42px;
+  margin-right: 20px;
+  border-radius: 50%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  cursor: pointer;
+}
+.spotify img {
+    height:38px;
+    padding:6px;
+}
+
+
+.fb{
+  height:42px;
+  width: 42px;
+   margin-right: 20px;
+  border-radius: 50%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  cursor: pointer;
+}
+.fb img {
+   height:38px;
+   padding:6px;
+
+}
+
+.pinterest{
+  height:42px;
+   margin-right: 20px;
+  cursor: pointer;
+}
+.pinterest img {
+  height:42px;
+}
+
+.insta{
+   height:42px;
+   width: 42px;
+    margin-right: 20px;
+   border-radius: 50%;
+   background-color: black;
+   display: flex;
+   justify-content: center;
+   align-items:center;
+   cursor: pointer;
+}
+.insta img {
+   height:38px;
+   padding:6px;
+}
+
+.youtube{
+     height:42px;
+     width: 42px;
+      margin-right: 20px;
+     border-radius: 50%;
+     background-color: black;
+     display: flex;
+     justify-content: center;
+     align-items:center;
+     cursor: pointer;
+}
+.youtube img {
+   height:38px;
+   padding:8px;
+}
+
+.twitter{
+   height:42px;
+   width: 42px;
+    margin-right: 20px;
+   border-radius: 50%;
+   background-color: black;
+   display: flex;
+   justify-content: center;
+   align-items:center;
+   cursor: pointer;
+}
+.twitter img {
+    height:38px;
+    padding:6px;
+}
+
+.written{
+  margin-top: 45px;
+  margin-left: -30px;
+}
+
+li .sun{
+  text-decoration: none;
+  padding-right: 20px;
+  font-size:16px;
+  padding-left: 20px;
+  color: black;
+  font-weight:500;
+  transition: all 250ms ease-in-out;
+}
+
+.sun:hover{
+  text-decoration: underline;
+}
+
+li .sun span{
+  height:2px;
+  width:2px;
+  color: #000000DE;}
+
+
+.info {
+  margin-left: 30px;
+  margin-top: 45px;
+  font-size: 14px;
+  color: #0000008F;
+  cursor: pointer;
+}
+
+.hun {
+  border-right: 2px solid black;
+}
